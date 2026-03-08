@@ -14,7 +14,6 @@
 </div>
 
 ### hey, i'm saksham
-a **developer** who like to **code**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skarwuuu.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshrwt/)
