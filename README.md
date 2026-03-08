@@ -1,24 +1,23 @@
 <div align="center">
-
+```                               
+    | |                                        
+ ___| | ____ _ _ ____      ___   _ _   _ _   _ 
+/ __| |/ / _` | '__\ \ /\ / / | | | | | | | | |
+\__ \   < (_| | |   \ V  V /| |_| | |_| | |_| |
+|___/_|\_\__,_|_|    \_/\_/  \__,_|\__,_|\__,_|                                              
 ```
- ___  _  _   __   ____  _  _  __  __  __  _  _
-/ __)( )/ ) / _\ (  _ \/ )( \(  )(  )(  )( \/ )
-\__ \ )  ( /    \ )   /) __ ( )( )(__)()(  )  /
-(___/(_)\_)\_/\_/(__\_)\_)(_/(__)(____)(__) (__/
-```
+</div>
 
-### hey, i'm saksham 👋
-**frontend engineer** who turns ideas into fast, clean, interactive web experiences
+### hey, i'm saksham
+a **developer** who like to **code**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skarwuuu.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshrwt/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshrwt@gmail.com)
 
-</div>
-
 ---
 
-### 🧠 what i work with
+### stack
 
 **Languages**
 
@@ -44,22 +43,6 @@
 
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📍 right now
-
-- 🎓 studying **CSE @ SRM, Kattankulathur** *(2023 – 2027)*
-- 🔨 building things that actually ship
-- 🌱 exploring **AI-powered web apps** with the Vercel AI SDK
-- 📬 open to collabs, internships & interesting problems
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skarwuuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarwuuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="150"/>
-</div>
 
 ---
 
