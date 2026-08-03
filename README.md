@@ -4,6 +4,4 @@
   </a>
 </p>
 <br/>
-<p align="center">
-  Writing the on-chain logic, then building the interface around it.
-</p>
+<!-- <p align="center"></p> -->
