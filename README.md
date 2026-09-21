@@ -3,5 +3,4 @@
     <img src="./cover.jpeg" alt="Saksham Rawat cover" width="100%" />
   </a>
 </p>
-<br/>
 <p align="center">loving the work, loving the larp</p>
